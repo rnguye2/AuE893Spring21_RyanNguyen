@@ -1,0 +1,2 @@
+assignment2_ws
+-DCATKIN_DEVEL_PREFIX=/home/rnguye2/git_ws/AuE893Spring21_RyanNguyen/git_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rnguye2/git_ws/AuE893Spring21_RyanNguyen/git_ws/install -G Unix Makefiles
